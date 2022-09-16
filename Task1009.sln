@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ", "DZ\DZ.csproj", "{D20B6968-1985-4165-88B3-6A949B6FB8F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TooMach", "TooMach\TooMach.csproj", "{259F6E4D-3C02-4F6F-B9F5-A48418DF954C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D20B6968-1985-4165-88B3-6A949B6FB8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20B6968-1985-4165-88B3-6A949B6FB8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20B6968-1985-4165-88B3-6A949B6FB8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20B6968-1985-4165-88B3-6A949B6FB8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{259F6E4D-3C02-4F6F-B9F5-A48418DF954C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259F6E4D-3C02-4F6F-B9F5-A48418DF954C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259F6E4D-3C02-4F6F-B9F5-A48418DF954C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259F6E4D-3C02-4F6F-B9F5-A48418DF954C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08B5F6B8-EFA3-45C4-9A0F-74D047DB8E91}
+	EndGlobalSection
+EndGlobal
